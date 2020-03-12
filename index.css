@@ -1,0 +1,15 @@
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0;
+
+
+
+}
+
+.card{
+
+    width:500px;
+    height:524px;
+}
